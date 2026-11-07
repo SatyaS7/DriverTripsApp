@@ -12,3 +12,6 @@ packages/
 
 # Claude Code settings for this machine only
 .claude/settings.local.json
+
+# Project Documents
+docs/
