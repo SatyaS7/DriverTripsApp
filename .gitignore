@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Build output
+bin/
+obj/
+
+# NuGet packages (Visual Studio restores these on build)
+packages/
+
+# Claude Code settings for this machine only
+.claude/settings.local.json

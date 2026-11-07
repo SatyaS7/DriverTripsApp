@@ -1,0 +1,11 @@
+﻿Driver Satya
+Driver Ahmed
+Driver John
+Driver Jared
+Driver Santosh
+Trip Satya 07:15 07:45 17.3
+Trip Satya 06:12 06:32 21.8
+Trip Ahmed 12:01 13:16 42.0
+Trip Jared 12:15 07:45 27.3
+Trip Jared 06:12 06:32 21.8
+Trip Rachel 06:12 06:32 21.8
